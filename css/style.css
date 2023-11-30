@@ -1,0 +1,236 @@
+
+/* Google Font Use */
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+
+*{
+    margin:0px;
+    padding: 0px;
+}
+*{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-family: 'Figtree', sans-serif;
+}
+/* Global Css */
+.container {
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+/* Navbar Css */
+.navbar {
+    padding-top: 0px !important;
+    padding-bottom:0px !important;
+    margin-top: 0px !important;
+}
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end !important;
+}
+img.ms-5 {
+    opacity: 0.2;
+}
+
+.header{
+    background-image: url('../img/SM-8 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
+    overflow: hidden;
+    background-attachment: fixed;
+}
+.navbar{
+    background: linear-gradient(180deg, #002253 0%, rgba(0, 32, 78, 0.00) 100%);
+}
+form .btn{
+    border-radius: 0px !important;
+}
+/* Unlock Home Css */
+#unlock {
+    background-image: linear-gradient(#005893, white);
+  }
+
+  #unlock .h1{
+
+        line-height: 79px;
+        font-size: 65px;
+    }
+
+    #unlock p .text-center{
+        line-height: 79px;
+        font-size: 65px;
+    }
+    .text-center.mt-5.mb-5 {
+        font-size: 56px;
+        line-height: 72px;
+    }
+    img.ms-5.arif {
+        padding-left: 159px;
+    }
+    .d-flex.flex-wrap.flex-column.justify-content-center.flex-sm-row.gap-5.mb-5.mt-5 {
+        margin-top: 125px !important;
+    }
+
+    /* End Unlock CSS */
+
+    /* Start Gallery CSS */
+   .shore p.h1.mb-5 {
+        font-size: 167px;
+        color: #005893;
+        margin-top: 126px;
+    }
+    button.btn.btn-success.btn-lg.mt-4.mb-5 {
+        background: #005893 !important; 
+    }
+
+    /* End Gallery CSS */
+
+    /* Start Storiys CSS */
+.storeys{
+    background-color: #343434 !important;
+}
+.store .count{
+    color: gray;
+    border-top: 1px solid #005893 !important;
+    margin-top: 208px !important;
+}
+.store .count1 {
+    color: gray;
+    border-top: 1px solid #005893 !important;
+    margin-top: 300px !important;
+}
+.store .count2{
+    color: gray;
+    border-top: 1px solid #005893 !important;
+    margin-top: 400px !important;
+}
+.store p.text-light {
+    font-size: 13px;
+}
+/* End Storiys CSS */
+
+/* Green Shore CSS Start */
+.shore p.text-light.fsize {
+    font-size: 18px;
+}
+.shore .col-md-4.col-12.mt-5 {
+    margin-top: 130px !important;
+}
+/* End Green Shore CSS */
+
+/* Client CSS Start */
+img.img-fluid.one {
+    position: absolute;
+    margin: 22px;
+}
+
+
+.bgimg {
+    background-image: url('img/bg.png');
+    background-size: cover;
+
+}
+
+.subdiv p.ms-5.mt-5.me-5 {
+    color: #333;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 300;
+line-height: 24px;
+max-width: 400px;
+
+}
+.subdiv{
+    display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+}
+/* Client CSS End */
+
+/* Blog CSS START */
+.blog {
+    background-image: linear-gradient(#333333, #005893);
+  }
+  p.mt-2.text-light.arifa {
+    margin-top: 220px !important;
+    font-size: 26px;
+}
+.text-light.arifa {
+    font-size: 26px;
+}
+.col-md-1 {
+    border-left: 1px solid lightblue;
+    margin-top: 222px;
+}
+/* Blog CSS END */
+
+/* Contact Us CSS Start */
+input[type="text"] {
+    border: none;
+    background: none;
+    border-bottom: 1px solid white;
+    color: white !important;
+    /* width: 358px; */
+}
+
+select.form-select {
+    border: none;
+    border-bottom: 1px solid white;
+    color: white !important;
+    border-radius: 0px;
+    max-width: 737px;
+    background: none;
+}
+
+.d-flex input[type="text"] {
+   /* max-width: 36px;
+    margin-left: 41px; */
+    color: white !important;
+    border-bottom: 1px solid white;
+    border-color: white;
+}
+textarea#exampleFormControlTextarea1 {
+    background: none;
+    border: none;
+    color: white !important;
+    border-radius: 0px;
+    border-bottom: 1px solid white;
+}
+/* Contact Us CSS End */
+
+
+/* Form CSS Start*/
+.form.blog {
+    border-bottom-left-radius: 50px 50px;
+    border-bottom-right-radius: 50px 50px;
+}
+/* Footer CSS Start */
+.footer{
+    background-color: #333;;
+}
+/* Footer CSS End */
+
+
+
+/*Start Mega Menu CSS */
+
+img.position-absolute.pt-5.w-45 {
+    width: 780px;
+    margin-top: 49px;
+}
+
+.col-md-6.col-12.mt-5.gaptop {
+    margin-top: 100px !important;
+}
+.topgap{
+    margin-top: 200px;
+}
+.megamenu{
+    background: linear-gradient(180deg, #002253 0%, rgba(18, 108, 233, 0) 100%);
+}
+/* End Mega Menu CSS */
+
+
+/* CVCVCV */
